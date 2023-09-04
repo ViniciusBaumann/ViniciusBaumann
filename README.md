@@ -6,7 +6,7 @@ Sou apaixonado por automação, mas principalmente por programação mesmo, desd
 ## 🎯 Metas & Vontades
 
 - Entrar no mercado de trabalho para entender como funciona a vida diaria de um programador.
-- Estar em constante evolução, sempre aprender algo novo que me ajude a melhorar e fazer as coisas mais eficientes.
+- Estar em constante evolução, sempre aprender algo novo que me ajude a ser mais eficiente.
 
 <h2 align="center">📫 Entre em Contato Comigo</h2>
 
