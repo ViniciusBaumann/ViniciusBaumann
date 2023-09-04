@@ -30,7 +30,7 @@ Sou apaixonado por automação, mas principalmente por programação mesmo, desd
 </details>
 
 <details open>
-<summary><b>Database</b></summary>
+<summary><b>Banco de Dados</b></summary>
 <br>
 
 ![Postgresql](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
@@ -38,7 +38,7 @@ Sou apaixonado por automação, mas principalmente por programação mesmo, desd
 </details>
 
 <details open>
-<summary><b>Software and Tools</b></summary>
+<summary><b>Ferramentas</b></summary>
 <br>
 
 ![Git](https://img.shields.io/badge/-git-red?style=for-the-badge&logo=Git&logoColor=white)&nbsp;
