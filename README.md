@@ -1,6 +1,6 @@
 ## 🗻 Olá, meu nome é Vinicius Baumann 🎑
 <p align="center">
-Sou apaixonado por automação, mas principalmente por programação mesmo, desde que começei a programar sempre gostei de fazer pequenos bots para meus jogos online, nesse meio tempo encontrei aprendi por contra própria Python, R, MongoDB e o basico de  Deep Learning, Neural Networks e Series Temporais. Atualmente estou focado e aprendendo JavaScript e Node.js pelo bolsa que ganhei do Ifood para estudar na Cubos Academy.
+Sou apaixonado por automação, mas principalmente por programação mesmo, desde que começei a programar sempre gostei de fazer pequenos bots para meus jogos online, nesse meio tempo encontrei aprendi por contra própria Python, R, MongoDB e o basico de  Deep Learning, Neural Networks e Series Temporais. Atualmente estou focado e aprendendo JavaScript e Node.js pela bolsa que ganhei do Ifood para estudar na Cubos Academy.
 </p>
 
 ## 🎯 Metas & Vontades
